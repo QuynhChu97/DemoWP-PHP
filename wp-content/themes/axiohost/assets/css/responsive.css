@@ -1,0 +1,472 @@
+/*	Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.mainSlider img {
+		min-height: 600px;
+	}
+	.header-area {
+		padding: 20px 0px;
+	}
+	.navigation-wrapper .logo-brand {
+		margin-top: 8px;
+	}
+ 
+	.navigation-wrapper .collapse-button {
+		background-color: transparent;
+	}
+	.nivo-caption {
+		-moz-transform: translateX(0px) translateY(-95px);
+		-webkit-transform: translateX(0px) translateY(-95px);
+		-o-transform: translateX(0px) translateY(-95px);
+		-ms-transform: translateX(0px) translateY(-95px);
+		transform: translateX(0px) translateY(-95px);
+	}
+	.navigation-wrapper .collapse-button .icon-bar {
+		width: 25px;
+		margin: 5px 0;
+		background-color: #F5F5F5;
+	}
+	.navigation-wrapper #navigation-menu {
+		position: absolute;
+		left: 0;
+		margin-top: 20px;
+		right: 0;
+		background-color: #fff;
+		z-index: 444;
+	}
+ 
+ 
+ 
+	.slider-content {
+		width: 100%;
+	}
+	.slider-content h1 {
+		font-size: 40px;
+		line-height: 48px;
+	}
+	.slider-content h4 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.testimonial-item .testimonial-content {
+		width: 80%;
+	}
+	.feature-box-shap img {
+		display: none;
+	}
+	.round-shap:before {
+        width: 170px;
+        height: 360px;
+	}	
+	.round-shap:after {
+		width: 170px;
+		height: 360px;
+	}
+	.faq-listed .faq-heading button {
+		font-size: 16px;
+	}
+	.general-question-title h2 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.faq-title h2 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.solution-step .solution-step-item {
+		margin-right: 70px;
+	}
+	.solution-step:before {
+		height: 65px;
+		transform: translate(50px, -15px);
+	}
+	.solution-tab-nav li {
+		margin-right: 50px;
+	}
+	.call-to-wrapper h2 {
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.got-questions-wrapper h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.single-post .calender-day {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.single-post .calender-month {
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.footer-wrapper {
+		padding-bottom: calc(120px - 30px);
+	}
+	.footer-widget {
+		margin-bottom: 30px;
+	}
+	.footer-copyright-menu li a {
+		padding: 0 6px;
+	}
+	.banner-carousel2 .content-box {
+		max-width: 60%;
+	}
+	.banner-carousel2 .content-box h2.style-two {
+		font-size: 40px;
+	}
+	.post-title-content h1 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+}
+
+
+/*	Mobile Layout: 767px.  */
+
+@media only screen and (max-width: 767px) {
+	.signature-wrapper .col-md-6:first-child {
+    order: 2;
+}
+section.signature-area .inner-title, section.themeix-hosting-area .inner-title {
+    margin-top: 40px;
+}
+	.mainSlider img {
+		min-height: 400px;
+	}
+	.header-area {
+		padding: 20px 0px;
+	}
+	.navigation-wrapper .logo-brand {
+		margin: 8px;
+	}
+	 
+ 
+	 
+	.nivo-directionNav {
+		display: none;
+	}
+	.slider-content {
+		width: 100%;
+	}
+	.slider-content h1 {
+		font-size: 30px;
+		line-height: 40px;
+		margin-bottom: 40px;
+	}
+	.slider-content h4 {
+		display: none;
+	}
+	.nivo-caption {
+		-moz-transform: translateX(0px) translateY(-60px);
+		-webkit-transform: translateX(0px) translateY(-60px);
+		-o-transform: translateX(0px) translateY(-60px);
+		-ms-transform: translateX(0px) translateY(-60px);
+		transform: translateX(0px) translateY(-60px);
+	}
+	.section-spacing {
+		padding: 50px 0;
+	}
+	.sec_minus-30 {
+		padding-bottom: calc(50px - 30px);
+	}
+	.blog-spacing {
+		margin-bottom: 30px;
+	}
+	.sidebar-right {
+		margin-top: 30px;
+	}
+	.sidebar-left {
+		margin-bottom: 30px;
+	}
+	.sidebar-widget {
+		margin-bottom: 30px;
+	}
+	.post-title-content {
+		padding: 140px 0px 80px 0;
+	}
+	.post-title-content h1 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.checkout-table tbody tr td:first-of-type img {
+		margin-left: 0;
+	}
+	#cart-popup-open,
+	.search-popup-icon {
+		display: none !important;
+	}
+	#post-title-shape {
+		width: 200px;
+		height: 210px;
+		left: -70px;
+		top: -70px;
+	}
+	.section-title h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.section-title p {
+		max-width: 100%;
+		margin: auto;
+	}
+	.section-title .section-label {
+		font-size: 50px;
+	}
+	.feature-box-wrapper .feature-box-left {
+		width: 100%;
+		float: none;
+		margin-bottom: 30px;
+	}
+	.feature-box-wrapper .feature-box-right {
+		width: 100%;
+		float: none;
+	}
+	.feature-box-shap img {
+		display: none;
+	}
+	.feature-box-right .feature-logo {
+		float: left;
+	}
+	.feature-box-right .feature-content {
+		float: left;
+		padding-left: 15px;
+		padding-right: 0;
+		text-align: left;
+	}
+	.feature-box-wrapper .feature-box {
+		margin-bottom: 30px;
+	}
+	.round-shap:before,.round-shap:after {
+		display: none;
+	}
+	.general-question-area .faq-listed {
+		margin-bottom: 0;
+	}
+	.blog-post .blog-content h4 {
+		font-size: 22px;
+	}
+	.faq-title h2 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.service-box .service-heading h4 {
+		font-size: 22px;
+	}
+	.feature-box-wrapper .feature-content h4 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.got-questions-wrapper h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.got-questions-wrapper {
+		text-align: center !important;
+	}
+	.got-questions-wrapper p {
+		margin-bottom: 30px;
+	}
+	.got-questions-btn-wrapper {
+		text-align: center !important;
+		margin-bottom: 10px;
+	}
+	.faq-listed .faq-heading button {
+		font-size: 16px;
+	}
+	.call-to-wrapper h2 {
+		font-size: 35px;
+		line-height: 50px;
+	}
+	.testimonial-item .testimonial-content {
+		width: 100%;
+	}
+	.hosting-solution-wrapper h2 {
+		font-size: 35px;
+		line-height: 44px;
+	}
+	.domain-search-form input[type="text"] {
+		padding: 22px 20px;
+	}
+	.domain-search-form button {
+		padding: 5px 30px 5px 25px;
+	}
+	.got-questions-wrapper h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.contact-area {
+		display: block !important;
+	}
+	.contact-area .themeix-highlight {
+		width: 100%;
+		max-width: 100%;
+	}
+	.contact-area .contact-map {
+		min-height: 400px;
+	}
+	.general-question-title h2 {
+		font-size: 35px;
+		line-height: 45px;
+	}
+	.general-question-area {
+		display: block !important;
+	}
+	.general-question-area .themeix-highlight {
+		width: 100%;
+		max-width: 100%;
+	}
+	.general-question-area .general-question-img {
+		min-height: 400px;
+	}
+	.comment-wrapper {
+		padding-left: 20px;
+	}
+	.single-post .calender-day {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.single-post .calender-month {
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.cart-search-form {
+		margin-top: 30px;
+	}
+	.cart-wrapper .cart-procced-btn {
+		margin-top: 30px;
+	}
+	.footer-copyright-menu {
+		float: none;
+	}
+	.footer-copyright-menu li a {
+		padding: 0 6px;
+	}
+	.footer-widget {
+		margin-bottom: 30px;
+	}
+	.footer-wrapper {
+		padding-top: 50px;
+		padding-bottom: calc(50px - 30px);
+	}
+	.register-form {
+		margin-bottom: 40px;
+	}
+	.banner-carousel2 .content-box {
+		max-width: 90%;
+	}
+	.banner-carousel2 .content-box h2.style-two {
+		font-size: 30px;
+	}
+	.banner-carousel2 .content-box .text {
+		font-size: 16px;
+	}
+	.banner-carousel2 .content-box .inner {
+		margin-right: 0;
+		padding: 160px 0px 110px 0;
+	}
+	.banner-carousel2 .owl-nav {
+		display: none;
+	}
+	.feature-box2 {
+		-webkit-box-shadow: 0px 0px 21px 5px rgba(24, 38, 127, 0.08);
+		box-shadow: 0px 0px 21px 5px rgba(24, 38, 127, 0.08);
+		margin-bottom: 30px;
+	}
+	.sidebar-widget {
+		padding:0
+	}
+	nav.navigation.pagination {
+    padding-bottom: 30px;
+}
+.space-top {
+    padding-top: 60px;
+}
+}
+
+
+/*	Wide Mobile Layout: 510px. */
+
+@media only screen and (max-width: 510px) {
+	.banner-content .banner-btn,
+	.banner-content .banner-btn2 {
+		padding: 10px 15px;
+	}
+	.domain-search-form {
+		border-radius: 0;
+		bottom: 0;
+		position: relative;
+		margin-top: 50px;
+	}
+	.domain-search-form input[type="text"] {
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+		width: 100%;
+	}
+	.banner-content h1 {
+		font-size: 34px;
+	}
+	.faq-title h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.faq-listed .faq-heading button {
+		font-size: 16px;
+	}
+	.call-to-wrapper .call-to-btn-wrapper:before {
+		display: none;
+	}
+	.call-to-wrapper .call-to-btn-wrapper {
+		width: 100%;
+	}
+	.call-to-wrapper .call-to-btn-wrapper a.call-to-btn,
+	.call-to-wrapper .call-to-btn-wrapper a.call-to-btn2 {
+		padding: 10px 15px;
+	}
+	.solution-step:before {
+		display: none;
+	}
+	.slider-content .slider-btn-wrapper a {
+		font-size: 14px;
+		line-height: 20px;
+		padding: 5px 20px;
+		margin-bottom: 10px;
+		display: inline-block !important;
+	}
+	.solution-step .solution-step-item {
+		margin-right: 25px;
+	}
+	.solution-tab-nav li {
+		margin-right: 20px;
+	}
+	.hosting-solution-wrapper h2 {
+		font-size: 30px;
+	}
+	.general-question-title h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.comment-wrapper {
+		padding-left: 0;
+	}
+	.single-post .single-tags-share {
+		text-align: center;
+	}
+	.single-post .single-tags-share .single-tags {
+		display: none;
+	}
+	.single-post .single-tags-share .single-share {
+		float: none !important;
+	}
+	.single-admin .admin-avatar {
+		width: 60px;
+	}
+	.single-admin .admin-comment {
+		width: calc(100% - 60px);
+	}
+	.mainSlider .nivo-main-image {
+		opacity: 0;
+	}
+	.domain-search-area{
+		display:none;
+	}
+}

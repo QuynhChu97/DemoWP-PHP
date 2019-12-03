@@ -1,0 +1,40 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_the100">
+			<key name="wimpie_lite_footer_copyright" />
+			<key name="wimpie_lite_search_placeholder" />
+			<key name="wimpie_lite_search_button_text" />
+			<key name="wimpie_lite_slider_button_text" />
+			<key name="wimpie_lite_aboutus_viewmore_text" />
+			<key name="wimpie_lite_services_title" />
+			<key name="wimpie_lite_services_desc" />
+			<key name="wimpie_lite_services_button_text" />
+			<key name="wimpie_lite_awesome_feature_title" />
+			<key name="wimpie_lite_awesome_feature_desc" />
+			<key name="wimpie_lite_awesome_feature_button_text" />
+			<key name="wimpie_lite_portfolio_title" />
+			<key name="wimpie_lite_portfolio_desc" />
+			<key name="wimpie_lite_portfolio_button_text" />
+			<key name="wimpie_lite_callto_title" />
+			<key name="wimpie_lite_callto_desc" />
+			<key name="wimpie_lite_callto_readmore" />
+			<key name="wimpie_lite_callto_link" />
+			<key name="wimpie_lite_teammember_title" />
+			<key name="wimpie_lite_teammember_button_text" />
+			<key name="wimpie_lite_clientlogo_title" />
+			<key name="wimpie_lite_clientlogo_desc" />
+			<key name="wimpie_lite_statcounter_title" />
+			<key name="wimpie_lite_statcounter_desc" />
+			<key name="wimpie_lite_statcounter1_title" />
+			<key name="wimpie_lite_statcounter2_title" />
+			<key name="wimpie_lite_statcounter3_title" />
+			<key name="wimpie_lite_statcounter4_title" />
+			<key name="wimpie_lite_blog_title" />
+			<key name="wimpie_lite_blog_desc" />
+			<key name="wimpie_lite_blog_single_readmore" />
+			<key name="wimpie_lite_blog_button_text" />
+			<key name="wimpie_lite_archive_setting_portfolio_readmore" />
+			<key name="wimpie_lite_archive_setting_archive_readmore" />
+		</key>
+	</admin-texts>
+</wpml-config>

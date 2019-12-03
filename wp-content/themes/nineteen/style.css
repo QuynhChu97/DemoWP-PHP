@@ -1,0 +1,28 @@
+﻿/*
+Theme Name: Nineteen
+Theme URI: https://weblizar.com/nineteen/
+Author: Weblizar
+Author URI: http://weblizar.com/
+Description: The Multipurpose WordPress Theme suitable for Business , corporate office and others .Cool Blog Layout and full width page also present and even let’s you customize the layout just, Navigate to Appearance > Customize to start personalizing Nineteen.
+License: GNU General Public License v3.0 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0.9
+Tags:  two-columns, custom-menu, right-sidebar, custom-background, featured-image-header, sticky-post, threaded-comments, featured-images, blog, entertainment, e-commerce
+Text Domain: nineteen
+
+Nineteen WordPress Theme has been created by Weblizar( http://weblizar.com/), 2019.
+Nineteen WordPress Theme is released under the terms of GNU GPL
+*/
+/* Basic Style */
+.wp-caption-text,
+.sticky,
+.gallery-caption,
+.bypostauthor {}
+
+img.alignright {float:right; margin:0 0 1em 1em}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+a img.alignright {float:right; margin:0 0 1em 1em}
+a img.alignleft {float:left; margin:0 1em 1em 0}
+a img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+/* Basic Style */

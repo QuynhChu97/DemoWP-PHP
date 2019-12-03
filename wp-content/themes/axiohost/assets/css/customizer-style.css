@@ -1,0 +1,57 @@
+/**
+ * Custom style for customizer fields.
+ */
+.repeater-font-awesome-icons{
+    height: 100px;
+    overflow-y: scroll;
+    font-size: 18px;
+    border: 1px solid #EEE;
+    border-right: 0;
+    border-top: 0;
+    padding-bottom: 4%;
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.customize-control-kirki-radio-image .image > label {
+    margin-right: 5px;
+}
+
+/*=================================================
+            Upsell Button
+=================================================*/
+li#accordion-section-theme_upsell h3.accordion-section-title {
+    background-color: #DF3550 !important;
+    border-left-color: #000000 !important;
+}
+
+#accordion-section-theme_upsell h3 a:after {
+    content: '\f345';
+    color: #fff;
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    z-index: 1;
+    font: 400 20px/1 dashicons;
+    speak: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none!important;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title a {
+    display: block;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title a:focus {
+    box-shadow: none;
+}
+
+li#accordion-section-theme_upsell h3.accordion-section-title:hover {
+    background-color: #de7b85 !important;
+}
+

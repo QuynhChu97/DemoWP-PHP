@@ -1,0 +1,65 @@
+.checkmark img, .cross img{
+            width: 20px;
+        }
+        .widgets-holder-wrap {
+            padding: 0 15px;
+        }
+      .welcome-text {
+    /* text-align: center; */
+    /* font-size: 24px!important; */
+    padding: 15px!important;
+    margin: 0!important;
+    background: #ffffff;
+    color: #0085ba!important;
+    border-bottom: 4px solid #0085ba;
+}
+      
+        .three-col .col {
+            float: left;
+            width: 33.333333%;
+        }
+        .free-vs-pro {
+            float: left;
+            width: 100%;
+            margin-top: 30px;
+        }
+        .checkmark,.cross{
+            margin-left: 22px;
+        }table.themeix-compare-table-btns {
+    padding: 15px 0;
+}.themeix-compare-table span.dashicons-yes:before {
+    color: #0085ba;
+    font-size: 32px;
+}
+
+.themeix-compare-table span.dashicons-no-alt:before {
+    color: #c30101;
+    font-size: 32px;
+}.themeix-compare-table td {
+    font-size: 16px;
+}
+
+.themeix-compare-table th {
+    font-size: 20px;
+    text-align: center;
+    color: #0085ba!important;
+}
+
+.themeix-compare-table th:first-child {
+    text-align: left;
+}
+
+.themeix-compare-table tr td {
+    text-align: center;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.themeix-compare-table tr td:first-child {
+    text-align: left;
+    border-right: 1px solid #f1f1f1;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.themeix-compare-table tr:hover, .themeix-compare-table tr:focus {
+    background: #f1f1f1;
+}
